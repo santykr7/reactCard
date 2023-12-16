@@ -1,0 +1,19 @@
+* {
+  background: rgb(76, 6, 6);
+}
+#root {
+  color: aliceblue;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#card {
+  color: rgb(234, 234, 234);
+  height: 150px;
+  width: 100px;
+  color: blueviolet;
+  border: 1px rgb(0, 0, 0) double;
+  border-radius: 5px;
+}
